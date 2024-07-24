@@ -4,8 +4,7 @@
 [![Jinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbooooom)](https://github.com/jinbooooom/linux)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/programming-summary,jinbooooom/linux,jinbooooom/coding-for-algorithms&type=Date)](https://star-history.com/#jinbooooom/programming-summary&jinbooooom/linux&jinbooooom/coding-for-algorithms&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/ai,jinbooooom/linux,jinbooooom/hpc-tutorial,jinbooooom/design-patterns,jinbooooom/programming-summary,jinbooooom/coding-for-algorithms&type=Date)](https://star-history.com/#jinbooooom/ai&jinbooooom/linux&jinbooooom/hpc-tutorial&jinbooooom/design-patterns&jinbooooom/programming-summary&jinbooooom/coding-for-algorithms&Date)
 
 
 <!--
