@@ -1,12 +1,20 @@
 ### Hey! Nice to see you
 
 
-[![Jinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbooooom)](https://github.com/jinbooooom/linux)
+ [![Jinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbooooom&show_icons=true)](https://github.com/jinbooooom/linux)
 
+ [![Jinbo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbooooom&layout=compact)](https://github.com/jinbooooom/ai-infra)
+ 
+<!--
+
+| ![Jinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinbooooom&show_icons=true)| [![Jinbo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinbooooom&layout=compact)](https://github.com/jinbooooom/ai-infra) |
+|:----------------------:|:----------------------:|
+
+-->
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/ai,jinbooooom/linux,jinbooooom/hpc-tutorial,jinbooooom/design-patterns,jinbooooom/programming-summary,jinbooooom/coding-for-algorithms&type=Date)](https://star-history.com/#jinbooooom/ai&jinbooooom/linux&jinbooooom/hpc-tutorial&jinbooooom/design-patterns&jinbooooom/programming-summary&jinbooooom/coding-for-algorithms&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/linux,jinbooooom/ai-infra,jinbooooom/hpc-tutorial,jinbooooom/design-patterns,jinbooooom/programming-summary,jinbooooom/coding-for-algorithms&type=Date)](https://star-history.com/#jinbooooom/linux&jinbooooom/ai-infra&jinbooooom/hpc-tutorial&jinbooooom/design-patterns&jinbooooom/programming-summary&jinbooooom/coding-for-algorithms&Date)
 
 
 <!--
