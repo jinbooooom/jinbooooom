@@ -14,7 +14,8 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/linux,jinbooooom/ai-infra,jinbooooom/hpc-tutorial,jinbooooom/design-patterns,jinbooooom/programming-summary,jinbooooom/coding-for-algorithms&type=Date)](https://star-history.com/#jinbooooom/linux&jinbooooom/ai-infra&jinbooooom/hpc-tutorial&jinbooooom/design-patterns&jinbooooom/programming-summary&jinbooooom/coding-for-algorithms&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jinbooooom/OriginDL,jinbooooom/linux,jinbooooom/ai-infra-hpc,jinbooooom/design-patterns,jinbooooom/programming-summary,jinbooooom/coding-for-algorithms&type=date&legend=top-left)](https://www.star-history.com/#jinbooooom/OriginDL&jinbooooom/linux&jinbooooom/ai-infra-hpc&jinbooooom/design-patterns&jinbooooom/programming-summary&jinbooooom/coding-for-algorithms&type=date&legend=top-left)
 
 
 <!--
